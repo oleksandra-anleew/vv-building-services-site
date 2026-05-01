@@ -25,7 +25,7 @@ h1 {
 }
 
 .main-nav {
-  width: 99%;
+  width: 100vw;
   background: linear-gradient(rgb(78, 189, 233), #4466bb);
   border: 1px solid navy;
   margin: 0;
