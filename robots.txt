@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vv-building-services.netlify.app/sitemap.xml
